@@ -1,0 +1,1 @@
+ovo ce biti moj prvi izmenjen comit
